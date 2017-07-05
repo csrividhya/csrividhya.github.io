@@ -1,2 +1,2 @@
-# csrividhya.github.io
-My personal website
+# Srividhya Chandrasekharan
+I'm a Computer Science grad student
