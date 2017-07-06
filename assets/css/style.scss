@@ -1,4 +1,6 @@
 ---
 ---
-
+ul#redbutton li.newbutton {
+    display: inline-block;
+}
 @import "{{ site.theme }}";
