@@ -1,15 +1,17 @@
 ---
 ---
 
-div.one{
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+p{
+  font-family: 'Roboto', sans-serif;
   font-size: 23px;
   font-weight: normal;
   line-height: 1;
+    color: black;
+}
+div.one{
   margin-left:100px;
   margin-right:100px;
   margin-bottom: 200px;
-  color: black;
 }
 
 div.pic_holder {
