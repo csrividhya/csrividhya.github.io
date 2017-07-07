@@ -7,7 +7,7 @@ div.pic_holder {
 
 .pics {
   height: 200px;
-   width: 50%;
+   width: 250px;
   border-radius: 25px;
   filter: gray; /* IE6-9 */
   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
@@ -17,10 +17,10 @@ div.pic_holder {
 /* Disable grayscale on hover */
 .pics:hover {
   height: 200px;
-  width: 50%;
+  width: 250px;
    border-radius: 25px;
   -webkit-filter: grayscale(0);
-  -webkit-transform: scale(1.1);
+  -webkit-transform: scale(1.2);
   filter: none;
 }
 @import "{{ site.theme }}";
