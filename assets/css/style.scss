@@ -4,10 +4,14 @@ div.pic_holder {
    display:inline-block;
  }
 
+ .floated_img
+ {
+     float: left;
+ }
 
 .pics {
   height: 200px;
-  width: 50%;
+  width: 400px;
   align : "middle";
   border-radius: 25px;
   filter: gray; /* IE6-9 */
@@ -18,7 +22,7 @@ div.pic_holder {
 /* Disable grayscale on hover */
 .pics:hover {
   height: 200px;
-  width: 50%;
+  width: 400px;
   align: "middle";
    border-radius: 25px;
   -webkit-filter: grayscale(0);
