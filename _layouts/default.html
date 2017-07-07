@@ -64,9 +64,11 @@
     <p>yolo2</p>
 </div>
 -->
+<div class="one">
 <img src="/assets/images/sri.jpg" height="300" width="270"  align="right" />
 <h2>ABOUT ME!</h2>
 <p>I am a Computer Science Master's student at The Ohio State University. I'll be graduating in May'2018. Currently, I live in Columbus, OH, USA. I've been learning and doing Computer Science since 2011. I got my Bachelors in Computer Science from Anna University, India in May 2016.</p>
+</div>
 
 <div class = "pic_holder ">
 <img class="pics" src="/assets/images/photos/brooklyn_bridge.jpg"  onclick="window.open(this.src)"/>
@@ -75,31 +77,7 @@
 <img class="pics" src="/assets/images/photos/elkins.jpg" onclick="window.open(this.src)"/>
 </div>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          {{ content }}
-        </section>
 
-        <aside id="sidebar">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              <small>Download</small>
-              .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-              <small>Download</small>
-              .tar.gz file
-            </a>
-          {% endif %}
-
-          {% if site.github.is_project_page %}
-            <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-          {% endif %}
-
-        </aside>
-      </div>
-    </div>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
