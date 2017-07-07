@@ -2,8 +2,8 @@
 ---
 
 .pics {
-  height: "250";
-  width: "250";
+  height: 200px;
+   width: 25%;
   border-radius: 25px;
   filter: gray; /* IE6-9 */
   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
@@ -12,8 +12,8 @@
 
 /* Disable grayscale on hover */
 .pics:hover {
-  height: "250";
-  width: "250"; 
+  height: 200px;
+  width: 25%;
    border-radius: 25px;
   -webkit-filter: grayscale(0);
   -webkit-transform: scale(1.1);
