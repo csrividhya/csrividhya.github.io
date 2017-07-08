@@ -1,14 +1,17 @@
 ---
 ---
 
-div.one{
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+p.para{
+  font-family: 'Courgette', cursive;
   font-size: 23px;
   font-weight: normal;
   line-height: 1;
   letter-spacing: 3px;
-  margin-left:150px;
-  margin-right:150px;
+}
+
+div.one{
+  margin-left:20%;
+  margin-right:20%
   margin-top:50px;
   margin-bottom: 200px;
   border-radius: 10px;
