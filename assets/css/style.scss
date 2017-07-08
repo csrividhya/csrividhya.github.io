@@ -11,7 +11,7 @@ p.para{
 }
 
 div.one{
-  height: 400px;
+  height: 300px;
   font-family: 'Rock Salt', cursive;
   text-shadow: 1px 1px  #4d79ff;
   font-size: 24px;
@@ -28,6 +28,7 @@ div.one{
 
 div.osu
 {
+  height: 30%;
   margin-left:20%;
   margin-right:20%;
   font-family: 'Rock Salt', cursive;
@@ -44,6 +45,7 @@ div.osu
 
 div.ssn
 {
+  height: 20%;
   margin-left:20%;
   margin-right:20%;
   font-family: 'Rock Salt', cursive;
@@ -120,6 +122,9 @@ div.pic_holder {
   cursor: pointer;
 }
 
+.logo{
+    border-radius: 25px;
+}
 
 
 @import "{{ site.theme }}";
