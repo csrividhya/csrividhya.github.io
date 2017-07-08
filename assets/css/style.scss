@@ -53,6 +53,7 @@ div.school
 
 div.pic_holder {
   margin-left: 7%;
+  margin-right:3%;
   margin-top:3%;
   margin-bottom:5%;
   display:inline-block;
@@ -122,7 +123,7 @@ h2.schoolname
     font-family: 'Rock Salt', cursive;
     color: #00ace6;
     font-size:24px;
-    line-height: 200%;
+     letter-spacing: 2px;
 
 }
 
@@ -133,7 +134,7 @@ h2.title
   display: flex;
   justify-content: center;
   align-items: center;
-  line-height: 200%;
+   letter-spacing: 2px;
 }
 
 h3.degree
@@ -141,14 +142,14 @@ h3.degree
 font-family: 'Rock Salt', cursive;
 color: #00ace6;
 font-size:21px;
-line-height: 200%;
+letter-spacing: 2px;
 }
 
 h3.location
 {
   color: #00ace6;
   font-size:19px;
-  line-height: 200%;
+  letter-spacing: 2px;
 }
 
 
