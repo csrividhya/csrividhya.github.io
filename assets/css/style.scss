@@ -2,6 +2,7 @@
 ---
 
 p.para{
+  color: #3d3d29;
   font-family: 'Fresca', sans-serif;
   font-size: 23px;
   font-weight: normal;
@@ -14,15 +15,16 @@ div.one{
   font-size: 30px;
   margin-left:15%;
   margin-right:15%;
-  margin-top:10%;
-  margin-bottom: 10%;
+  margin-top:2%;
+  margin-bottom: 3%;
   border-radius: 10px;
   //box-shadow: 5px 5px 10px grey;
    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 div.pic_holder {
-    margin-left: 20px;
+  margin-left: 5%;
+  margin-right:5%;
    display:inline-block;
  }
 
