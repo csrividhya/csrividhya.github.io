@@ -111,18 +111,21 @@ div.pic_holder {
 
 h2.schoolname
 {
-    font-size: 22px;
-    color:#33adff;
+    color: #3366cc;
+    font-size:24px;
+
 }
 
 h3.degree
 {
-  color: #3366cc;
+color:#33adff;
+font-size:21px;
 }
 
 h3.location
 {
   color:#9933ff;
+  font-size:19px;
 }
 
 @import "{{ site.theme }}";
