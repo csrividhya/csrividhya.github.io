@@ -56,8 +56,6 @@ div.pic_holder {
   margin-top:5%;
   margin-bottom:5%;
   display:inline-block;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-  border-radius: 20px;
  }
 
  .floated_img
@@ -123,6 +121,7 @@ h2.schoolname
     font-family: 'Rock Salt', cursive;
     color: #3366cc;
     font-size:24px;
+    line-height: 130%;
 
 }
 
@@ -131,8 +130,9 @@ h2.title
   font-family: 'Rock Salt', cursive;
   color: #3366cc;
   display: flex;
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
+  line-height: 130%;
 }
 
 h3.degree
@@ -140,12 +140,23 @@ h3.degree
 font-family: 'Rock Salt', cursive;
 color: #3366cc;
 font-size:21px;
+line-height: 130%;
 }
 
 h3.location
 {
   color: #3366cc;
   font-size:19px;
+  line-height: 130%;
+}
+
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 @import "{{ site.theme }}";
