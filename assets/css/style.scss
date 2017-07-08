@@ -127,8 +127,9 @@ h2.title
 {
   font-family: 'Rock Salt', cursive;
   color: #3366cc;
-  font-size:24px;
-  align-content: center;
+  display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h3.degree
