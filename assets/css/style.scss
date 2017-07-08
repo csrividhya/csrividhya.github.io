@@ -19,17 +19,16 @@ div.one{
   margin-top:2%;
   margin-bottom: 3%;
   background: #fff;
-  border-radius: 2px;
-  //border-radius: 10px;
+  //border-radius: 2px;
+  border-radius: 10px;
   //box-shadow: 5px 5px 10px grey;
-   //box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 div.osu
 {
-  height: 500px;
-  width: 600px;
-  align:"left";
+  margin-left:20%;
+  margin-right:20%;
   font-family: 'Rock Salt', cursive;
   text-shadow: 1px 1px  #4d79ff;
   font-size: 24px;
@@ -39,14 +38,13 @@ div.osu
   margin-bottom: 3%;
   border-radius: 10px;
   //box-shadow: 5px 5px 10px grey;
-   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+   //box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 div.ssn
 {
-  height: 400px;
-  width: 600px;
-  align:"right";
+  margin-left:20%;
+  margin-right:20%;
   font-family: 'Rock Salt', cursive;
   text-shadow: 1px 1px  #4d79ff;
   font-size: 24px;
@@ -55,7 +53,7 @@ div.ssn
   margin-bottom: 3%;
   border-radius: 10px;
   //box-shadow: 5px 5px 10px grey;
-   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+   //box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 div.pic_holder {
