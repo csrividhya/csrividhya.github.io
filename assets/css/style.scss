@@ -13,7 +13,6 @@ p.para{
 div.one{
   height: 300px;
   font-family: 'Rock Salt', cursive;
-  text-shadow: 1px 1px  #4d79ff;
   font-size: 24px;
   margin-left:15%;
   margin-right:15%;
@@ -110,5 +109,20 @@ div.pic_holder {
     border-radius: 25px;
 }
 
+h2.schoolname
+{
+    font-size: 22px;
+    color:#33adff;
+}
+
+h3.degree
+{
+  color: #3366cc;
+}
+
+h3.location
+{
+  color:#9933ff;
+}
 
 @import "{{ site.theme }}";
