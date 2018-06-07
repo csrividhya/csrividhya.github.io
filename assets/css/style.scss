@@ -31,7 +31,15 @@ div.one{
    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 
 }
+div.main{
+   height: 100%;
+  font-family: 'Fresca', sans-serif;
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:5%;
 
+  
+}
 
 div.project{
   margin-left:20%;
@@ -67,6 +75,12 @@ div.school
    //box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
+div.center {
+    height : 100%;
+    width: 100%;
+    margin-left:15%;
+    margin-right:30%;
+}
 
 div.pic_holder {
   margin-left: 5%;
@@ -169,6 +183,17 @@ h3.location
   letter-spacing: 2px;
 }
 
+ul
+{
+
+  font-family: 'Fresca', sans-serif;
+  font-size:24px;
+  color: #3366cc;
+}
+
+li{
+    margin: 1%;
+}
 
 
 @import "{{ site.theme }}";
