@@ -18,7 +18,7 @@
     { "name": "Cloud computing" },
     { "name": "System Architecture and Scalability" },
     { "name": "API Development and Integration" },
-    { "name": "Machine Learning and AI:" }
+    { "name": "Machine Learning and AI" }
   ],
   "skills": [
     {
@@ -57,10 +57,10 @@
       "website": "https://www.nokia.com/",
       "startDate": "2018-08-13",
       "endDate": "2024-08-07",
-      "summary": "As a skilled software engineer with experience at Nokia, I’ve contributed to high-impact projects that shape the future of global communication.",
+      "summary": "I’ve contributed to high-impact projects that shape the future of global communication.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Java Backend Engineer: In my first role, I developed and optimized a containerized customer support web application, supporting over 150 global deployments and managing 1+ billion devices, ensuring high availability and seamless customer experiences across diverse regions.",
+        "Cloud Native Software Engineer: In my second role, I contributed to transforming a legacy monolithic application into a scalable cloud-based solution, supporting a $120M revenue-generating product for 500M+ devices on major global 4G & 5G networks, including North America, Japan, and Europe."
       ]
     },
     {
@@ -89,20 +89,6 @@
       "highlights": [
         "I walked large dogs to give them a break from the stressful shelter environment. Each walk was not just about exercise; it was about building trust and companionship, allowing these dogs to feel loved and valued. My mission was to create joyful moments for these furry friends, focusing on engaging playtime and rewarding their positive behaviors with endless belly rubs and affectionate scratches."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
