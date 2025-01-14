@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/pokemon.png
 title: "Exploratory Data Analysis using Pokemon data"
 date: 2018
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Exploratory Data Analysis using Pokemon dataset."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/pokemon.png">
 
 For this project, I conducted an in-depth Exploratory Data Analysis (EDA) using the Pokémon stats dataset from Kaggle. Leveraging Pandas for data manipulation and Plotly for interactive visualizations, I uncovered key patterns and insights about Pokémon attributes, such as types, stats, and distributions. The project aimed to provide a better understanding of the dataset through clear, visual representations of the data’s underlying trends.
 
