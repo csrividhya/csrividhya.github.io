@@ -35,35 +35,46 @@
       "institution": "The Ohio State University, Columbus",
       "area": "Computer Science",
       "studyType": "M.S.",
-      "startDate": "2016-08-01",
-      "endDate": "2018-05-05",
+      "startDate": "2016",
+      "endDate": "2018",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Anna University, Chennai",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2012",
+      "endDate": "2016",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Nokia",
+      "position": "Software Engineer",
+      "website": "https://www.nokia.com/",
+      "startDate": "2018-08-13",
+      "endDate": "2024-08-07",
+      "summary": "As a skilled software engineer with experience at Nokia, I’ve contributed to high-impact projects that shape the future of global communication.",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Ohio State University",
+      "position": "Graduate Teaching Associate",
+      "website": "https://syllabi.engineering.osu.edu/syllabi/cse_1222",
+      "startDate": "2017-01",
+      "endDate": "2017-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Taught a class of 40 students CSE 1222: Introduction to Computer Programming in C++.",
+        "Administered lab sessions, evaluated their homework, lab and quiz submissions.",
+        "Maintained weekly office hours and problem-solving sessions.",
+        "Administered and graded midterm and final exams."
       ]
     }
   ],
