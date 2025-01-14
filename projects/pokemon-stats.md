@@ -18,7 +18,8 @@ I’ve shared my process and findings in a detailed Medium article, where I walk
 [Article link](https://medium.com/@csrividhya94/exploratory-data-analysis-with-pokémon-d195da7e0382) 
 
 Source code: <a href="https://github.com/csrividhya/pokemon-stats"><i class="large github icon "></i>csrividhya/pokemon-stats</a>
+Dataset: [Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon)
 
-Infographic from the analysis:
+Infographic from the analysis: 
 
 <img class="img-fluid" src="../img/pokemon.png">
