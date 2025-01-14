@@ -1,44 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Srividhya Chandrasekharan",
+    "label": "Software Engineer",
+    "picture": "https://github.com/csrividhya.png",
+    "email": "csri.inbox@gmail.com",
+    "website": "https://csrividhya.github.io",
+    "summary": "I am a passionate and collaborative software engineer with 6 years of experience dedicated to delivering impactful solutions that make a difference. My technical expertise includes Java, Python, and Kubernetes. I am a Certified Kubernetes Application Developer and a Certified Kubernetes Administrator.",
+    "location": { "address": "", "postalCode": "", "city": "Austin", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/csrividhya" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/sri-chandrasekharan" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/srividhyachandrasekharan" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Cloud computing" },
+    { "name": "System Architecture and Scalability" },
+    { "name": "API Development and Integration" },
+    { "name": "Machine Learning and AI:" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Kubernetes", "Java", "Docker", "Helm", "Istio", "YAML" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Other skills",
+      "keywords": [ "Git/GitHub", "RESTful APIs", "Bash" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "The Ohio State University, Columbus",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2016-08-01",
+      "endDate": "2018-05-05",
       "courses": [
       ]
     }
