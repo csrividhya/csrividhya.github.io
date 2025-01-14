@@ -8,9 +8,9 @@
     "summary": "I am a passionate and collaborative software engineer with 6 years of experience dedicated to delivering impactful solutions that make a difference. My technical expertise includes Java, Python, and Kubernetes. I am a Certified Kubernetes Application Developer and a Certified Kubernetes Administrator.",
     "location": { "address": "", "postalCode": "", "city": "Austin", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/csrividhya" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/sri-chandrasekharan" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/srividhyachandrasekharan" }
+      { "network": "github", "username": "csrividhya", "url": "http://github.com/csrividhya" },
+      { "network": "linkedin", "username": "sri-chandrasekharan", "url": "https://linkedin.com/in/sri-chandrasekharan" },
+      { "network": "instagram", "username": "srividhyachandrasekharan", "url": "http://instagram.com/srividhyachandrasekharan" }
     ]
   },
   "interests": [
@@ -80,28 +80,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Austin Animal Center",
+      "website": "https://www.austintexas.gov/austin-animal-center",
+      "position": "Dog Enrichment Volunteer",
+      "startDate": "2022-03",
+      "endDate": "2022-12",
+      "summary": "Dog Enrichment Volunteer for large dogs.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "I walked large dogs to give them a break from the stressful shelter environment. Each walk was not just about exercise; it was about building trust and companionship, allowing these dogs to feel loved and valued. My mission was to create joyful moments for these furry friends, focusing on engaging playtime and rewarding their positive behaviors with endless belly rubs and affectionate scratches."
       ]
     }
   ],
