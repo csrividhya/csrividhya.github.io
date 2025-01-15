@@ -9,7 +9,7 @@ labels:
   - Data visualization
   - Python - Pandas
   - Data Science
-summary: ""Fun with a Kaggle dataset."
+summary: "Fun with a Kaggle dataset."
 ---
 
 For this project, I conducted an in-depth Exploratory Data Analysis (EDA) using the Pokémon stats dataset from Kaggle. Leveraging Pandas for data manipulation and Plotly for interactive visualizations, I uncovered key patterns and insights about Pokémon attributes, such as types, stats, and distributions. The project aimed to provide a better understanding of the dataset through clear, visual representations of the data’s underlying trends.
